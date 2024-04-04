@@ -2,7 +2,10 @@
  yolo test
 
 You need to change the your own object classes and names first in anchors and predict.py according to your need.
+
 Training result prediction requires the use of two files, namely yolo.py and predict.py.
+
+The output detection video stores at img file.
 
     
 <button onclick="copyCode()">Copy code</button>
