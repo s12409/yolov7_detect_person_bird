@@ -8,8 +8,8 @@ def code():
 <button onclick="copyCode()">Copy code</button>
 
 <pre><code id="code" class="language-python">
-def hello_world():
-    print("Hello, world!")
+python train.py
+python detect_v2.py
 </code></pre>
 <script>
 function copyCode() {
