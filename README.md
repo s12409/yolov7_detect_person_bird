@@ -15,4 +15,7 @@ python detect_v2.py ...
 # demo example
 ![Image](img/detect_pic.jpg)
 
+# Reference
+https://github.com/WongKinYiu/yolov7.git
+
 
