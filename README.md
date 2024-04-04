@@ -8,9 +8,10 @@ def code():
 <button onclick="copyCode()">Copy code</button>
 
 <pre><code id="code" class="language-python">
-python train.py
-python detect_v2.py
+python train.py ...
+python detect_v2.py ...
 </code></pre>
+
 <script>
 function copyCode() {
     var code = document.getElementById('code').innerText;
