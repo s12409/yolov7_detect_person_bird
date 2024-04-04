@@ -1,0 +1,10 @@
+# COCO 2017 dataset http://cocodataset.org
+
+train: ./data/bird_person_yolov7/train/images  
+val: ./data/bird_person_yolov7/valid/images  
+# test: .data/coco128/test/images  
+# number of classes
+nc: 2
+
+# class names
+names: [ 'person', 'bird' ]
